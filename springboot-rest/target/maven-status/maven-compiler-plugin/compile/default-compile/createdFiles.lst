@@ -1,0 +1,5 @@
+com\rest\Student.class
+com\rest\StudentResourceImpl.class
+com\rest\Students.class
+com\rest\StudentResource.class
+com\rest\SpringRestApplication.class
